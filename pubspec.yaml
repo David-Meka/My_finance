@@ -1,0 +1,39 @@
+name: my_finance
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  uuid: ^4.5.1
+  shared_preferences: ^2.5.2
+  cloud_firestore: 4.17.5
+  firebase_core: ^2.15.0
+  firebase_auth: ^4.8.0
+  provider: ^6.0.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_local_notifications: ^16.0.0
+  # charts_flutter: ^0.12.0
+  # charts_flutter: ^latest_version
+  syncfusion_flutter_charts: ^23.1.36
+  hive_generator: ^2.0.1
+  timezone: ^0.9.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.3.3
+  # analyzer: ^7.3.0
+  analyzer: ^4.7.0 # Downgrade to a compatible version
+  
+
+flutter:
+  uses-material-design: true
+

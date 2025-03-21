@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"my-finance-1f82e","appId":"1:52364706640:android:e193b8d1f37b9abf66e255","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"my-finance-1f82e","configurations":{"android":"1:52364706640:android:e193b8d1f37b9abf66e255","ios":"1:52364706640:ios:6292528103565eb666e255"}}}}}}
